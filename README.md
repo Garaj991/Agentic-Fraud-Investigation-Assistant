@@ -1,4 +1,4 @@
-```
+
 # Agentic Fraud Investigation & Automated EDD Pipeline
 
 An AI-driven transaction monitoring pipeline engineered to evaluate financial risks using an automated, multi-agent Enhanced Due Diligence (EDD) framework. The system operates under strict sliding-window rate-limiting constraints to align with free-tier API parameters while ensuring production-grade error handling and persistent logging.
@@ -79,4 +79,4 @@ The following assets are strictly bounded from upstream Git commits:
 * Intermediate runtime payloads (synthetic_transactions.json)
 * Python execution caching nodes (__pycache__/, *.pyc)
 
-```
+
